@@ -1,0 +1,9 @@
+Manufacturer=Same Sky
+PartNumber=SLW-116641-5A-S-D
+PartCategory=Switch
+PackageCategory=Other
+PinCount=3
+Version=4.4
+Released=2024-09-04 13:00:10
+Downloaded=2026-03-26 12:18:48
+3D=Y

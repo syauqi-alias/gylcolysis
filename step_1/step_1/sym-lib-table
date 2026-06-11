@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SN74HC08N")(type "KiCad")(uri "C:/Users/ucems09/Documents/Github/Glycolysis/kicad_library/ul_SN74HC08N/KiCADv6/2026-02-26_10-09-30.kicad_sym")(options "")(descr ""))
+  (lib (name "BC2AAPC")(type "KiCad")(uri "C:/Users/ucems09/Documents/Github/Glycolysis/kicad_library/BC2AAPC/BC2AAPC.kicad_sym")(options "")(descr ""))
+  (lib (name "CD74HC4511E")(type "KiCad")(uri "C:/Users/ucems09/Documents/Github/Glycolysis/kicad_library/CD74HC4511E/CD74HC4511E.kicad_sym")(options "")(descr ""))
+)
