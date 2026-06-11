@@ -5088,7 +5088,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "2 × NE555    (Steps 1 and 3)\n2 × 74HC123  (Steps 7 and 10 - one IC per step)"
+	(text "2 × NE555    (Steps 1 and 3)\n2 × NE556, dual 555 timer  (Steps 7 and 10 - one IC per step)"
 		(exclude_from_sim no)
 		(at 21.59 176.784 0)
 		(effects
