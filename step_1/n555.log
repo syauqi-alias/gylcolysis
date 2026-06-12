@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\ucems09\Documents\Github\Glycolysis\step_1\n555.asc
-Start Time: Thu Jun 11 15:27:21 2026
+Start Time: Fri Jun 12 15:26:10 2026
 solver = Normal
 Maximum thread count: 16
 tnom = 27
@@ -9,5 +9,5 @@ method = modified trap
 Limiting rise time of source v2 to 0.2
 Limiting fall time of source v2 to 0.2
 Direct Newton iteration for .op point succeeded.
-Total elapsed time: 0.108 seconds.
+Total elapsed time: 0.106 seconds.
 

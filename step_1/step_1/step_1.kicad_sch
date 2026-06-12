@@ -9641,7 +9641,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "10nF"
 			(at 81.28 149.8599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9685,7 +9685,7 @@
 				)
 			)
 		)
-		(property "mouser" "810-FG28X7R1H104KNT0 "
+		(property "mouser" "594-K103K10X7RF53H5"
 			(at 77.47 148.59 0)
 			(hide yes)
 			(show_name no)
